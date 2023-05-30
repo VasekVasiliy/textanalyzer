@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    text_analyzer (0.1.0)
+      stemmer
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.16.3)
+    rake (13.0.6)
+    stemmer (1.0.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  minitest (~> 5.0)
+  rake (~> 13.0)
+  text_analyzer!
+
+BUNDLED WITH
+   2.4.13
