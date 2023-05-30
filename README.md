@@ -1,6 +1,7 @@
 # TextAnalyzer
 
-TODO: Delete this and the text below, and describe your gem
+Частотный анализ текстовых файлов. На вход подается путь к папке с файлами в формате .txt. Нужно считать   данные из всех файлов и вернуть список встречающихся в файлах слов, указав для каждого слова количество вхождений. Нужно сделать настройки для работы модуля: стоп-лист слов (слова, которые не учитываются при подсчете), проводить ли лемматизацию.
+
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/text_analyzer`. To experiment with that code, run `bin/console` for an interactive prompt.
 
