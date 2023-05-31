@@ -12,6 +12,6 @@ Gem::Specification.new do |spec|
   spec.files         = Dir.glob('{lib}/**/*') + ['LICENSE.txt', 'README.md']
   spec.require_paths = ['lib']
 
-  spec.add_runtime_dependency 'lingua-stemmer'
+  spec.add_runtime_dependency 'stemmer'
 
 end
